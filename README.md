@@ -1,4 +1,4 @@
-# 🌟 Jordi Roca Bonnín | Game Developer 🎮
+# ⭐ Jordi Roca Bonnín | Game Developer 🎮
 
 👨‍🎓 **Education**  
 - **2023 - 2025**: CFGS Mobile App Development (Specialized in Video Games & Digital Media) - *Institut Pedralbes*  
