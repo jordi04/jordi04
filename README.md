@@ -6,7 +6,7 @@
 - **2020 - 2022**: High School (Scientific Technologic) - *IES Llorenç Garçíes i Font*
 
 🏆 **Achievements**  
-- Developed a **Connect 4** multiplayer game using **Unity** and **WebSocket**.  
+- Developed a **Connect 4** online multiplayer game using **Unity** and **WebSocket**.  
 - Hosted and managed multiple **Minecraft servers** with custom mods and plugins.  
 - Participated in **HACK UPC 2024**, utilizing an AI model for SEIDOR.
 
