@@ -18,6 +18,9 @@
 - Promoted concerts, including *Xavi Sarrià* at *Santuari de Sant Salvador, d’Artà*.  
 - Passionate actor for 10 years, awarded the **Buero Vallejo Award** for best scenography and lighting in the play *Príncep Petit* (2020).
 
+📬 **Contact & Projects**  
+- Email: jordiroca04@gmail.com  
+
 💡 **About Me**  
 I’m a Majorcan programmer with a deep passion for computers and video games. I thrive on learning independently and adapting to new challenges. My hobbies include board games, music, and movies. 
 
@@ -27,4 +30,3 @@ I’m a Majorcan programmer with a deep passion for computers and video games. I
 - **Others**: Git, Arduino, Front End & Back End development  
 - **Design**: Basic knowledge of Adobe Photoshop, Premiere, and Illustrator  
 - **Languages**: English (B2), Catalan (Native), Spanish (Advanced)
-
