@@ -22,7 +22,7 @@
 - Email: jordiroca04@gmail.com  
 
 💡 **About Me**  
-I’m a Majorcan programmer with a deep passion for computers and video games. I thrive on learning independently and adapting to new challenges. My hobbies include board games, music, and movies. 
+- I’m a Majorcan programmer with a deep passion for computers and video games. I thrive on learning independently and adapting to new challenges. My hobbies include board games, music, and movies. 
 
 🛠️ **Skills**  
 - **Languages**: C#, Python, Java, JavaScript, C++, Dart, Kotlin, MySQL, HTML, CSS, NodeJS, TypeScript  
