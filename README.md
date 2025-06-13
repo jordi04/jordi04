@@ -26,7 +26,7 @@
 
 🛠️ **Skills**  
 - **Languages**: C#, Python, Java, JavaScript, C++, Dart, Kotlin, MySQL, HTML, CSS, NodeJS, TypeScript  
-- **Frameworks**: Unity, Unreal Engine, Flutter  
+- **Frameworks**: Unity, Unreal Engine, Godot, Flutter, Android Studio  
 - **Others**: Git, Arduino, Front End & Back End development  
 - **Design**: Basic knowledge of Adobe Photoshop, Premiere, and Illustrator  
 - **Languages**: English (B2), Catalan (Native), Spanish (Advanced)
